@@ -91,14 +91,10 @@ footer p{
 
 {
     box-sizing: border-box;
-  }
-  
- #form{
+}
+#form{
     padding-bottom: 200px;
- }
- .form{
-    
-    
-    text-align: center;
-    
+}
+.form{
+text-align: center;
 }
