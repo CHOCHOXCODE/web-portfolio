@@ -91,14 +91,19 @@ footer p{
 
 {
     box-sizing: border-box;
-  }
-  
- #form{
+}
+#form{
     padding-bottom: 200px;
- }
- .form{
-    
-    
-    text-align: center;
-    
+}
+.form{
+text-align: center;
+}
+
+.a-button2{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: honeydew;
+    font-weight: 700;
+    background-image: linear-gradient(75deg,red,cyan);
 }
